@@ -1,0 +1,2 @@
+TOKEN = "7906840248:AAH3ZN0bpanTqAKdBiBR8LG33CBIyRaOdJA"
+ADMIN_ID = 6286037303  # kendi telegram kullanıcı ID'in
